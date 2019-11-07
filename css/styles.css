@@ -1,0 +1,111 @@
+.intro {
+  font-size: 12px;
+}
+.background {
+  background-image: url("../img/background.jpg");
+  height: 100vh;
+  max-width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-size: smaller;
+  font-family: sans-serif;
+}
+.welcome {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.ab {
+  text-align: center;
+  font: lora;
+  left: 40%;
+}
+.click {
+  animation-duration: 4s;
+  animation-iteration-count: 8;
+  animation-timing-function: ease-in-out;
+  animation-direction: alaternate;
+  animation: hop;
+}
+.services {
+  background-image: url("../img/s_image.jpg");
+  height: 60vh;
+  max-width: 100%;
+  background-position: center;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-block-end: 50px;
+  border-block-width: 50px;
+}
+.sv {
+  text-align: center;
+  position: relative;
+  top: 200px;
+  font: lora;
+}
+
+.what-we-do {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-flow: row;
+  align-items: center;
+}
+.portfolio-image {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.image1 {
+  padding: 0 10px 20px;
+}
+.form-image {
+  background-image: url("../img/c_image.jpg");
+  height: 60vh;
+  max-width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form-group {
+  top: 20x;
+}
+h6 {
+  text-align: center;
+}
+.portfolio {
+  margin-block-end: 40px;
+}
+.margin {
+  margin-block-end: 40px;
+}
+
+.show-design {
+  display: none;
+}
+.show-dev {
+  display: none;
+}
+.show-pd {
+  display: none;
+}
+.project {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid black;
+  padding: 30px;
+  font-weight: bold;
+  display: none;
+}
