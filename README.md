@@ -4,7 +4,7 @@
 #### By **{
     # Brosir Maraka}**
 ## Description
-{The main purpose of the portfolio is to introduce the use to a software development studio: Delani studio. The application is website mainly for marketing the studio, as well as providing users a change to engage with comany and place orders. It offers details on what is done at Delani and the benefits the user will have when using the company.}
+{The main purpose of the portfolio is to introduce the user to a software development studio: Delani studio. The application is a website mainly for marketing the studio, as well as providing users a chance to engage with the company and place orders. It offers details on what is done at Delani and the benefits the user will have when using the company's products}
 ## Setup/Installation Requirements
  { This application is quite simple to use. Follow the steps listed below.
   - click on the link in the github branch section on this page
